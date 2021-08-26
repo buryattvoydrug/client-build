@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.1419aeb9.chunk.css",
-    "main.js": "./static/js/main.bc3baec1.chunk.js",
-    "main.js.map": "./static/js/main.bc3baec1.chunk.js.map",
+    "main.css": "./static/css/main.fcd4f87b.chunk.css",
+    "main.js": "./static/js/main.b814f4a5.chunk.js",
+    "main.js.map": "./static/js/main.b814f4a5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.e104b919.js",
     "runtime-main.js.map": "./static/js/runtime-main.e104b919.js.map",
     "static/js/2.0091999c.chunk.js": "./static/js/2.0091999c.chunk.js",
     "static/js/2.0091999c.chunk.js.map": "./static/js/2.0091999c.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.1419aeb9.chunk.css.map": "./static/css/main.1419aeb9.chunk.css.map",
+    "static/css/main.fcd4f87b.chunk.css.map": "./static/css/main.fcd4f87b.chunk.css.map",
     "static/js/2.0091999c.chunk.js.LICENSE.txt": "./static/js/2.0091999c.chunk.js.LICENSE.txt",
     "static/media/Interface.scss": "./static/media/bg.6be88996.jpg",
     "static/media/Contacts.scss": "./static/media/map.c8319ea3.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.e104b919.js",
     "static/js/2.0091999c.chunk.js",
-    "static/css/main.1419aeb9.chunk.css",
-    "static/js/main.bc3baec1.chunk.js"
+    "static/css/main.fcd4f87b.chunk.css",
+    "static/js/main.b814f4a5.chunk.js"
   ]
 }
